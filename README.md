@@ -5,6 +5,7 @@ This project shows how KMeans and KNN algorithm can be used to compress and tran
 
 The elbow graph:
 ![image](https://github.com/user-attachments/assets/017a9dca-1148-4005-bfe3-16d3b41e6c72)
+<img src="img2.png" alt="Image 1" width="300">
 
 Original image 1:
 ![image](https://github.com/user-attachments/assets/63df61d3-0b73-4dff-8136-f003b039701e)
